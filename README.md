@@ -48,6 +48,16 @@ cat /Users/xxxxx/.jenkins/secrets/initialAdminPassword
 
 - Environment variables
 
+  Manage Jenkins / Configure System / Global properties /
+  
+  Check : Environment variables
+  
+  ```
+  Name : ANDROID_HOME
+  
+  Value : /Users/xxxx/Library/Android/sdk
+  ```
+
 ## Tips
 
 - sdk Manager
