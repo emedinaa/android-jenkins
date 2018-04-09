@@ -46,6 +46,23 @@ cat /Users/xxxxx/.jenkins/secrets/initialAdminPassword
 
 - Plugins
 
+  Manage Jenkins / Manage Plugins / Available
+  
+  ```
+    Android Emulator Plugin
+    
+    AndroidLint Plugin
+    
+    Bitbucket Plugin
+    
+    Git Plugin
+    
+    Groovy
+    
+    Gradle Plugin
+    
+  ```
+  
 - Environment variables
 
   Manage Jenkins / Configure System / Global properties /
